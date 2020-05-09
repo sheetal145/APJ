@@ -1,4 +1,4 @@
-@media only screen and (min-width: 400px)
+@media only screen and (min-width: 490px)
 {
     .para{
         font-size: 2vw;
@@ -37,4 +37,5 @@
         max-width: 100%;
         height: auto;
     }
+    
 }
